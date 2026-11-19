@@ -4,6 +4,16 @@
 
 下载：见 [Releases](../../releases)，文件 `428-CUSA11946-zh-patch-v0103.pkg`（815 MiB）。
 
+## 截图
+
+以下截图取自 PS5 实机（固件 13.60 + v1.1 补丁）。
+
+| 标题画面 | 剧本选择 |
+|---|---|
+| ![标题画面](docs/screenshots/title.jpg) | ![剧本选择](docs/screenshots/bookmark.jpg) |
+| **选择主人公** | **对话与引导说明** |
+| ![选择主人公](docs/screenshots/select.jpg) | ![对话](docs/screenshots/dialogue.jpg) |
+
 ## 适用版本
 
 | 项 | 要求 |
